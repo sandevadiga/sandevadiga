@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhoshdevadiga/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5635AQE8MJHk6wxnCw/profile-framedphoto-shrink_400_400/0/1669086816023?e=1700658000&v=beta&t=-c3dDDCRClwxxOCrBMmnGN4u2D9hh6lm1kuN8deuppM" alt="https://www.linkedin.com/in/santhoshdevadiga/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhoshdevadiga/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png" alt="https://www.linkedin.com/in/santhoshdevadiga/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
